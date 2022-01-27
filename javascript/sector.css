@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserret";
+}
+
+.center_name {
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 80%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Montserret";
+}
+
+canvas {
+    border: 5px solid black;
+}
+
+.search_box {
+    width: 90%;
+    margin: 10px auto;
+}
+
+.header {
+    background: #ECDFBF;
+    overflow: hidden;
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.sector_background {
+    padding-top: 20px;
+    text-align: center;
+}
